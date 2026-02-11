@@ -162,17 +162,6 @@ cat .env
 
  CCR working
 
-Agar tum chaho to mein is document ko:
-
-✅ GitHub README format
-✅ Hackathon student guide
-✅ Urdu + English bilingual version
-✅ Professional PDF documentation
-✅ Slide presentation
-✅ Troubleshooting flowchart
 
 create by Amber
 
-mein bhi convert kar sakta hoon.
-
-Bas batao kis format mein chahiye 👌
