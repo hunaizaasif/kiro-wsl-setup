@@ -16,6 +16,7 @@ CONFIGURATION ERROR
 To iska matlab hai ke .env file properly configure nahi hui ya credentials missing hain.
 
 ✅ Solution Step-by-Step
+
 🧾 Step 1: .env File Create Karein
 
 Terminal open karein aur yeh commands run karein:
